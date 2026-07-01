@@ -38,7 +38,7 @@ A full digital reimplementation of the award-winning tile-drafting board game **
 ---
 
 ### 🔥💧 [ICoop](https://github.com/ismael-ayachi/ICoop) — a 2-player cooperative game on a custom engine
-A top-down cooperative action-adventure built on top of a **hand-rolled 2D game engine**, inspired by *Fireboy and Watergirl*. Two players — one Fire, one Water — must split tasks and coordinate to clear puzzles, fight enemies, and beat the final boss.
+A top-down cooperative action-adventure built on top of a **hand-rolled 2D game engine**, inspired by *Fireboy and Watergirl*. Two players : one Fire, one Water. Both must split tasks and coordinate to clear puzzles, fight enemies, and beat the final boss.
 
 - 🏗️ Reusable `game-engine` module: rendering loop, audio, actor/area abstractions, grid-based physics-lite movement, input handling
 - 🌍 Six interconnected areas (Spawn, OrbWay, Maze, Arena, SanctumEntrance, Sanctum) gated behind cooperative challenges
@@ -85,4 +85,4 @@ Built at the **StableCoins & Payments Hackathon** (BSA @ EPFL, ENS track): every
 
 ---
 
-<p align="center"><em>Thanks for stopping by — feel free to explore the repos above ⭐</em></p>
+<p align="center"><em>Thanks for stopping by, feel free to explore the repos above ⭐</em></p>
