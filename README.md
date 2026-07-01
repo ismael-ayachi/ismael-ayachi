@@ -13,7 +13,7 @@
 
 ### 🧭 About me
 
-I'm a Computer Science student at **EPFL** who likes projects that force you to think at every layer of the stack — from bit-packed game state and Monte-Carlo search all the way up to smart contracts and pixel-perfect UI. Most of my public work comes out of EPFL coursework and hackathons, where the constraint of a tight deadline tends to produce the most interesting engineering decisions.
+I'm a Computer Science student at **EPFL** who likes projects that force you to think at every layer of the stack, from bit-packed game state and Monte-Carlo search all the way up to smart contracts and pixel-perfect UI. Most of my public work comes out of EPFL coursework and hackathons, where the constraint of a tight deadline tends to produce the most interesting engineering decisions.
 
 - 🎮 Enjoys building **games and the engines underneath them**
 - 🧠 Into **AI/search techniques** (MCTS, heuristics) applied to small, well-defined problems
